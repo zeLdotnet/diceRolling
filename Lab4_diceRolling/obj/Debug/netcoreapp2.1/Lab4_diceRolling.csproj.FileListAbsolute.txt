@@ -1,0 +1,11 @@
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab4_diceRolling\Lab4_diceRolling\bin\Debug\netcoreapp2.1\Lab4_diceRolling.deps.json
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab4_diceRolling\Lab4_diceRolling\bin\Debug\netcoreapp2.1\Lab4_diceRolling.runtimeconfig.json
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab4_diceRolling\Lab4_diceRolling\bin\Debug\netcoreapp2.1\Lab4_diceRolling.runtimeconfig.dev.json
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab4_diceRolling\Lab4_diceRolling\bin\Debug\netcoreapp2.1\Lab4_diceRolling.dll
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab4_diceRolling\Lab4_diceRolling\bin\Debug\netcoreapp2.1\Lab4_diceRolling.pdb
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab4_diceRolling\Lab4_diceRolling\obj\Debug\netcoreapp2.1\Lab4_diceRolling.csprojAssemblyReference.cache
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab4_diceRolling\Lab4_diceRolling\obj\Debug\netcoreapp2.1\Lab4_diceRolling.csproj.CoreCompileInputs.cache
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab4_diceRolling\Lab4_diceRolling\obj\Debug\netcoreapp2.1\Lab4_diceRolling.AssemblyInfoInputs.cache
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab4_diceRolling\Lab4_diceRolling\obj\Debug\netcoreapp2.1\Lab4_diceRolling.AssemblyInfo.cs
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab4_diceRolling\Lab4_diceRolling\obj\Debug\netcoreapp2.1\Lab4_diceRolling.dll
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab4_diceRolling\Lab4_diceRolling\obj\Debug\netcoreapp2.1\Lab4_diceRolling.pdb
